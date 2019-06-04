@@ -2,6 +2,6 @@
 
 oreore dotfiles manual
 
-## README.md link of master branch
-* [git]( ./tree/master/git/README.md )
-* [vim]( ./tree/master/vim/README.md )
+## README.md links
+* [git]( ./git/README.md )
+* [vim]( ./vim/README.md )
